@@ -1,0 +1,7 @@
+test/
+train/
+in-hospital-mortality/
+*.csv
+*.py
+*.json
+__pycache__/
